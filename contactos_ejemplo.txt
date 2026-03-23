@@ -1,0 +1,3 @@
+5215512345678|Hola Ana, este mensaje salió desde la base de datos.
+5213312345678|Hola Carlos, tu recordatorio fue tomado desde SQLite.
+15559876543|Hola John, este mensaje se enviará por WhatsApp Web.
